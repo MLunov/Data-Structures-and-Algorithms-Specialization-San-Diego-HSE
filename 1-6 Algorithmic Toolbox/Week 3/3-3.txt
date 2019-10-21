@@ -1,0 +1,22 @@
+import sys
+
+
+def compute_min_refills(distance, tank, n, stops):
+    numR, curR = 0, 0
+    # if distance - stops[-1] <= tank:
+    while curR < n:
+        lastR = curR
+        while (curR < n) and (stops[curR + 1] - stops[lastR] <= tank):
+            curR += 1
+        if curR == lastR:
+            return -1
+        if curR < n:
+            numR += 1
+    return numR
+    # else:
+    #     return -1
+
+
+if __name__ == '__main__':
+    d, m, n, *stops = map(int, sys.stdin.read().split())
+    print(compute_min_refills(d, m, n + 1, [0] + stops + [d]))
