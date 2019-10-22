@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Specialization
 ![screenshot of sample](http://images.staff.am/upload/a/7/c/f/a7cfc700.png)
-This repository contains materials and solutions for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms), created by University of California, San Diego, recognized as one of the top 10 public universities by U.S & National Research University Higher School of Economics, one of the top research
+This repository contains materials and solutions for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms), created by University of California, San Diego, recognized as one of the top 10 public universities by U.S., & National Research University Higher School of Economics, one of the top research
 universities in Russia.
 *** 
 **Please make homeworks by your own and look in this repository only when you've already done the assignments. Anyway, it is in your interests if you really want to learn something**.
