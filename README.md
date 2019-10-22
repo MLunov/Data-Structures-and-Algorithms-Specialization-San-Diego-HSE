@@ -7,8 +7,8 @@ universities in Russia.
 *** 
 Specialization consists of 6 courses:
 1. [Algorithmic Toolbox](https://github.com/MLunov/Data-Structures-and-Algorithms-Specialization-San-Diego-HSE/tree/master/1-6%20Algorithmic%20Toolbox)
-2. [Data Structures]()
-3. [Algorithms on Graphs]()
-4. [Algorithms on Strings]()
-5. [Advanced Algorithms and Complexity]()
-6. [Genome Assembly Programming Challenge]()
+2. Data Structures[]()
+3. Algorithms on Graphs[]()
+4. Algorithms on Strings[]()
+5. Advanced Algorithms and Complexity[]()
+6. Genome Assembly Programming Challenge[]()
